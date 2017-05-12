@@ -1,0 +1,26 @@
+body{
+  color: orangeRed;
+  background-color: black;
+  text-align: center;
+  font-size: 40px;
+}
+h1{
+  color:white;
+  text-align: center;
+  font-size: 30px;
+}
+h2{
+
+  color: white;
+  text-align:left;
+  font-size: 20px;
+}
+.dipartment{
+  font-size: 25px;
+}
+.subdipartment{
+  font-size: 25px;
+}
+.chosendipartment{
+  font-size: 23px;
+}
